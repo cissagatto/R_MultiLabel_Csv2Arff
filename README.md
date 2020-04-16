@@ -12,5 +12,8 @@ argument 3: range of labels that will be converted to nominal
 ### Terminal
 *java -jar R_csv_2_arff.jar "arg1" "arg2" "arg3"*
 
-## CHECK
-There must be a folder called lib with weka.jar inside it. Without this folder the file r_csv_2_arff.java does not work
+#### CHECK
+
+There must be a folder called lib with weka.jar inside it. 
+
+Without this folder the file r_csv_2_arff.jar does not work
