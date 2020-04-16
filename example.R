@@ -1,3 +1,7 @@
+# ELAINE CECILIA GATTO
+# 2020-04-16
+# R MULTILABEL CSV TO ARFF
+
 sistema = c(Sys.info())
 if (sistema[1] == "Linux"){
   Folder = paste("/home/", sistema[7], "/R_MultiLabel_Csv2Arff", sep="")
