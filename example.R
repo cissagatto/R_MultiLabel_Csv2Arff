@@ -10,7 +10,6 @@ if (sistema[1] == "Linux"){
   Folder = paste("C:/Users/", sistema[7], "/R_MultiLabel_Csv2Arff", sep="")
   setwd(Folder)
 }
-setwd(Folder)
 
 arg1 = "flags-Split-Tr-5.csv"
 arg2 = "flags-Split-Tr-5.arff"
