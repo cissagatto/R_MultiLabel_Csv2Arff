@@ -11,9 +11,9 @@ if (sistema[1] == "Linux"){
   setwd(Folder)
 }
 
-arg1 = "flags-Split-Tr-5.csv"
-arg2 = "flags-Split-Tr-5.arff"
-arg3 = "21-27"
+arg1 = " flags-Split-Tr-5.csv "
+arg2 = " flags-Split-Tr-5.arff "
+arg3 = " 21-27 "
 
-str = paste("java -jar ", FolderRoot, "R_csv_2_arff.jar ", arg1, " ", arg2, " ", arg3, sep="")
+str = paste("java -jar ", Folder, "/R_csv_2_arff.jar ", arg1, " ", arg2, " ", arg3, sep="")
 system(str)
