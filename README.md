@@ -1,9 +1,12 @@
 # R_MultiLabel_Csv2Arff
-R_MultiLabel_Csv2Arff
 
-# Execute
-argumento 1: string nome do arquivo csv com o seu respectivo caminho de pasta
-argumento 1: string nome do arquivo arff com o seu respectivo caminho de pasta (não tem problema que o arquivo não exista! ele será criado aqui)
-argumento 3: faixa de rótulos que serão convertidos para nominais
 
-**java -jar R_csv_2_arff.jar "arquivo1" "arquivo2" "rotulos"**
+## Execute
+
+argument 1: string csv file name with its respective folder path
+
+argument 2: string arff file name with its respective folder path (no problem, the file does not exist! it will be created here)
+
+argument 3: range of labels that will be converted to nominal
+
+**java -jar R_csv_2_arff.jar "arg1" "arg2" "arg3"**
