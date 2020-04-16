@@ -29,7 +29,7 @@ public class R_csv_2_arff {
         NumericToNominal Nominalize = new NumericToNominal();
         String[] options = new String[2];
         options[0] = "-R";        
-        options[1] = faixa; //set the attributes from indices 1 to 2 as        
+        options[1] = faixa;       
                
         //nominal
         Nominalize.setOptions(options);
