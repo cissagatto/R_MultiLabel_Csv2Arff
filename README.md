@@ -11,7 +11,9 @@ argument 2: string arff file name with its respective folder path (no problem, t
 argument 3: a range of labels that will be converted to nominal
 
 ### Terminal
-*java -jar R_csv_2_arff.jar "arg1" "arg2" "arg3"*
+```
+java -jar R_csv_2_arff.jar "arg1" "arg2" "arg3"
+```
 
 #### CHECK
 
