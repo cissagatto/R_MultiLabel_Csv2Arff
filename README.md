@@ -2,6 +2,10 @@
 This code is part of my doctoral research.
 
 
+## How to cite 
+@misc{Gatto2020, author = {Gatto, E. C.}, title = {R code to convert CSV to ARFF in Multilabel Classification}, year = {2021}, publisher = {GitHub}, journal = {GitHub repository}, howpublished = {\url{https://github.com/cissagatto/R_MultiLabel_Csv2Arff}}}
+
+
 ## Execute
 
 argument 1: string CSV file name with its respective folder path
