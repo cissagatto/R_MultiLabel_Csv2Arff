@@ -1,5 +1,5 @@
 # R MultiLabel CSV 2 ARFF
-This code is part of my doctoral research.
+This code is part of my doctoral research. The aim is convert CSV file in an ARFF file correctly for a multi-label dataset.
 
 
 ## How to cite 
